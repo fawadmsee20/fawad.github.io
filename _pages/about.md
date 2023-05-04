@@ -19,8 +19,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a lecturer in the School of Computer Science and Informatics, and a member of the Visual Computing research group. I received my PhD in Computer Science from National Centre for Computer Animation (NCCA), Bournemouth University, UK in 2017 and my B.Eng. in Electrical Engineering from Shanghai Jiao Tong University, China in 2013.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are centred around machine learning and its applications in computer vision, computer graphics, human-computer interactions, etc. My current research revolves around the following three themes: i) unboxing the deep learning black-box, ii) creative artificial intelligence (AI) and iii) prototyping wearable devices for motion monitoring and analysis. I am also interested in other related topics like semantic segmentation, domain adaptation, semi-supervised learning, etc.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+All kinds of collaboration are welcome!
+
+For CSC applicants: Cardiff University benefits from an official partnership with China Scholarship Council (CSC). If you are interested in doing research with me, please contact me via email as soon as possible as additional deadlines/steps may apply. 
