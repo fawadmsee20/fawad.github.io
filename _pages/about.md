@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: **Lecturer (~Assistant Professor)** in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
+subtitle: Lecturer (~Assistant Professor) in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
 
 profile:
   align: right
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>2.20, Abacws Building</p>
+    <p>Room 2.20, Abacws Building</p>
     <p>Senghennydd Road, Cathays</p>
     <p>Cardiff, UK, CF24 4AG</p>
 
