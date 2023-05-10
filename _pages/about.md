@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Lecturer (~Assistant Professor) in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
+subtitle: <b>Lecturer (~Assistant Professor)</b> in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
 
 profile:
   align: right
