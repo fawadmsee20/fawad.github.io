@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Lecturer (~Assistant Professor)</b> in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
+subtitle: <b>Senior Lecturer (~Associate Professor)</b> in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Lecturer in the School of Computer Science and Informatics, and a member of the **Visual Computing research section**. I received my PhD in Computer Science from <a href='https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation'>National Centre for Computer Animation (NCCA)</a>, Bournemouth University, UK in 2017 and my B.Eng. in Electrical Engineering from <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>, China in 2013.
+I am a Senior Lecturer (~Associate Professor) in the School of Computer Science and Informatics, and a member of the **Visual Computing research section**. I received my PhD in Computer Science from <a href='https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation'>National Centre for Computer Animation (NCCA)</a>, Bournemouth University, UK in 2017 and my B.Eng. in Electrical Engineering from <a href='https://www.sjtu.edu.cn/'>Shanghai Jiao Tong University</a>, China in 2013.
 
 My research interests are centred around machine learning and its applications in computer vision, computer graphics, human-computer interactions, etc. My current research revolves around the following three themes: (i) unboxing the deep learning black-box, (ii) creative artificial intelligence (AI) and (iii) prototyping wearable devices for motion monitoring and analysis. I am also interested in other related topics like semantic segmentation, domain adaptation, semi-supervised learning, etc.
 
