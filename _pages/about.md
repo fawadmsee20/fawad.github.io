@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Senior Lecturer (~Associate Professor)</b> in Computer Science @ <a href='https://www.cardiff.ac.uk/computer-science'>Cardiff University</a>.
+subtitle: <b>Postdoc Researcher (~Associate Professor)</b> in Computer Science @ <a href='[https://www.cardiff.ac.uk/computer-science](https://sites.google.com/view/envilab-kentech/mips-lab-in-chosun-university?authuser=0)'>KENTECH University</a>.
 
 profile:
   align: right
